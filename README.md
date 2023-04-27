@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Igor  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="55"></h1> 
-<h4 align="center">a data science student at Higher School of Economics university, see my <a href="https://github.com/maybeigor/maybeigor/blob/main/Kenzin-Igor_DevOps-Specialist.pdf.pdf" target="_blank">resume</a> for more information</h4>
+<h4 align="center">a data science student at Higher School of Economics university, see my <a href="https://github.com/maybeigor/maybeigor/blob/main/Kenzin_Igor_DevOps_Specialist.pdf" target="_blank">resume</a> for more information</h4>
 <p align="center">
   <a href="https://github.com/maybeigor/maybeigor/blob/main/CV%20Kenzin-Igor.pdf"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Deep+Learning+Developer;ML%20|%20SQL%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=100"></a>
 </p>
