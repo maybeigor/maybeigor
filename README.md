@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Igor  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="55"></h1> 
-<h4 align="center">a data science student at Higher School of Economics university, see my <a href="https://github.com/maybeigor/maybeigor/blob/main/CV%20Kenzin-Igor.pdf" target="_blank">resume</a> for more information</h4>
+<h4 align="center">a data science student at Higher School of Economics university, see my <a href="https://github.com/maybeigor/maybeigor/blob/main/Kenzin-Igor_DevOps-Specialist.pdf.pdf" target="_blank">resume</a> for more information</h4>
 <p align="center">
   <a href="https://github.com/maybeigor/maybeigor/blob/main/CV%20Kenzin-Igor.pdf"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Deep+Learning+Developer;ML%20|%20SQL%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=100"></a>
 </p>
 
-I'm [Igor Kenzin](https://github.com/maybeigor), an obsessed data scientist and tech enthusiast from Kazakhstan. My passion for software and computing is the creation of concepts that are brought to life through stunning mathematical solutions and elegant interfaces.I also enjoy compiling mathematical theory into a few worksheets and attempting to connect its applications to real data.
+I'm [Igor Kenzin](https://github.com/maybeigor), an obsessed DevOps / DS and tech enthusiast from Kazakhstan. My passion for software and computing is the creation of concepts that are brought to life through stunning mathematical solutions and elegant interfaces.I also enjoy compiling mathematical theory into a few worksheets and attempting to connect its applications to real data.
 
 I'm 22 years old and graduated with a degree in Bachelor of <a href="https://www.jcu.edu.sg/courses-and-study/courses/course/bachelor-of-information-technology" target="_blank"> Information Technology at Singapore James Cook University </a>. I am currently studying  master programs. The first is data science at the Higher School of Economics' Faculty of Computer Science. 
 # 🛠 **&nbsp;Stack:** 
